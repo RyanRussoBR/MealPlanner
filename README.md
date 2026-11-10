@@ -20,7 +20,7 @@ O objetivo do aplicativo é permitir que usuários cadastrem receitas, organizem
 |---|---|---|
 | 1. Planejador semanal | `ui/planner/PlannerScreen.kt` | Integrante 1 — Pronta |
 | 2. Lista de receitas | `ui/recipes/RecipesScreen.kt` | Integrante 2 |
-| 3. Cadastro e edição | `ui/recipes/RecipeFormScreen.kt` | Integrante 3 |
+| 3. Cadastro e edição | `ui/recipes/RecipeFormScreen.kt` | Integrante 3 — Pronta |
 | 4. Detalhes da receita | `ui/recipes/RecipeDetailScreen.kt` | Integrante 4 — Pronta |
 | 5. Lista de compras | `ui/shopping/ShoppingScreen.kt` | Integrante 5 |
 
